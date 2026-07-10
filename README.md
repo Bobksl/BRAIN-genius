@@ -1,4 +1,4 @@
-# Systematic Crypto Strategies — SG×HK Quant Hackathon
+# Crypto Quant Bot — Systematic Crypto Trading Strategies
 
 This repository contains the trading system I built for the **SG vs HK University Web3 Quant Hackathon**, deploying an automatic trading bot on AWS to trade crypto via the Roostoo mock trading API.
 
