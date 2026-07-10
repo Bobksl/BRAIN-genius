@@ -1,4 +1,6 @@
-# Cryptocurrency Trading Bot
+# Systematic Crypto Strategy — SG×HK Quant Hackathon
+
+Built for the SG vs HK University Web3 Quant Hackathon. Implements and compares two systematic strategies (logistic regression classifier and SMA momentum with RSI filter) on BTC/USDT hourly data, with a full backtesting engine including Sharpe, Sortino, Calmar, and max drawdown. Deployed live on AWS via Roostoo mock trading API.
 
 ## Overview
 
